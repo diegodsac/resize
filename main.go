@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/diegodsac/resize"
+	"github.com/diegodsac/resize/resize"
 )
 
 func main() {
